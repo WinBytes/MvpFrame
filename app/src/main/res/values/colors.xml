@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="text_black_33">#333333</color>
+    <color name="text_black_66">#666666</color>
+    <color name="text_black_99">#999999</color>
+    <color name="text_black_cc">#cccccc</color>
+    <color name="text_black_ee">#eeeeee</color>
+    <color name="normal_back_ground">@color/gray_fa</color>
+    <color name="divider_color">@color/gray_f4</color>
+    <color name="gray_fc">#fcfcfc</color>
+    <color name="gray_fa">#fafafa</color>
+    <color name="gray_f4">#f4f4f4</color>
+    <color name="gray_f6">#f6f6f6</color>
+    <color name="gray_f0">#f0f0f0</color>
+    <color name="gray_66">#99000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#c20c0c</color>
+    <color name="red_66">#ec0f38</color>
+    <color name="red_transparent_66">#33c20c0c</color>
+    <color name="main_color">@color/red</color>
+    <!--<color name="main_color">#7EABF4</color>-->
+    <color name="main_color_aa">#aac20c0c</color>
+    <color name="bottom_navigation_unselected">#515151</color>
+    <color name="bottom_navigation_selected">@color/red</color>
+    <color name="black_transparent_cc">#33000000</color>
+    <color name="yellow">#FF9402</color>
+
+    <color name="text_click_bg">#E6E9EB</color>
+    <color name="text_click_bg_press">@color/text_black_99</color>
+    <color name="text_grey">#AEAEAE</color>
+    <color name="subscribe_category_bar_bg_night">#cc363636</color>
+</resources>
